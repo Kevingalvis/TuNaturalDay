@@ -4,12 +4,12 @@ export default function loadJson() {
     const $textSugerencia = document.querySelector(".text-sugerencia");
 
    
-console.log("editor")
+console.log("editoyyttrr")
 
 
 
 
-    fetch('../../../assets/json/catalogo.json')
+    fetch('TuNaturalDay/blob/main/assets/json/coments.json')
         .then(res => res.json())
         .then(data => {
           
