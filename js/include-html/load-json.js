@@ -9,7 +9,7 @@ export default function loadJson() {
 
 
 
-    fetch('../../assets/json/coments.json')
+    fetch('assets/json/coments.json')
         .then(res => res.json())
         .then(data => {
           
