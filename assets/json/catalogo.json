@@ -1,0 +1,83 @@
+
+[
+    {
+        "id": 1,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/hBstYbj/producto-1.png",
+        "mini": "https://ibb.co/WknYVZw"
+      
+    },
+    {
+        "id": 2,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/m98QH6Y/producto-10.png",
+        "mini": "https://ibb.co/T4LzHmn"
+      
+    },
+    {
+        "id": 3,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/J2v6DWd/producto-2.png",
+        "mini": "https://ibb.co/GkWYzfJ"
+      
+    },
+    {
+        "id": 4,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/HzdTLdq/producto-3.png",
+        "mini": "https://ibb.co/r6s2KsH"
+      
+    },
+    {
+        "id": 5,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/zmXB0g9/producto-4.png",
+        "mini": "https://ibb.co/QJPT1VS"
+      
+    },
+    {
+        "id": 6,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/6t9ZCM4/producto-5.png",
+        "mini": "https://ibb.co/M1wh0vR"
+      
+    },
+    {
+        "id": 7,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/TMkMScM/producto-6.png",
+        "mini": "https://ibb.co/5h6hyTh"
+      
+    },
+    {
+        "id": 8,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/HpPdd2f/producto-7.png",
+        "mini": "https://ibb.co/prKyyPB"
+      
+    },
+    {
+        "id": 9,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/yskkfrS/producto-8.png",
+        "mini": "https://ibb.co/ZTggL0m"
+      
+    },
+    {
+        "id": 10,
+        "name": "Producto Name",
+        "precio": 25000,
+        "img": "https://i.ibb.co/DMb4sth/producto-9.png",
+        "mini": "https://ibb.co/myBJ1Gk"
+      
+    }
+]

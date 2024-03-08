@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "userUno",
+        "comentario": "¡Increíble experiencia en la página naturista! Descubrí productos de alta calidad que se adaptan perfectamente a mi estilo de vida saludable.",
+        "logo": "../../assets/img/user/img-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "userUno",
+        "comentario": "Descubrí la página naturista por recomendación y no puedo estar más feliz.",
+        "logo": "../../assets/img/user/img-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "userUno",
+        "comentario": "Navegar por la página fue un placer. Hallé exactamente lo que necesitaba para mi estilo de vida natural. 🌿",
+        "logo": "../../assets/img/user/img-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "userUno",
+        "comentario": "Mi rincón favorito para productos naturales. ¡Excelente servicio y calidad! 🌼",
+        "logo": "../../assets/img/user/img-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "userUno",
+        "comentario": "La gama de productos es impresionante, y siempre encuentro algo nuevo para mejorar mi salud y estilo de vida.",
+        "logo": "../../assets/img/user/img-5.jpg"
+    }
+]
