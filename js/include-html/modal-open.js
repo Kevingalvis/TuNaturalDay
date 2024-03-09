@@ -14,7 +14,7 @@ export default function opeModal (){
     });
 
     $btnDescargar.addEventListener("click",() =>{
-        const miPDF = "../../assets/json/catalogo.pdf";
+        const miPDF = "assets/json/catalogo.pdf";
         const linkHidden = document.createElement("a");
         
         linkHidden.href = miPDF;
@@ -24,7 +24,7 @@ export default function opeModal (){
         console.log(linkHidden);
     });
 
-    fetch("../../assets/json/catalogo.json")
+    fetch("assets/json/catalogo.json")
         .then(res => res.json())
         .then(data =>{
             

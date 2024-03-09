@@ -3,8 +3,6 @@ export default function loadJson() {
     const $btnSugerencia = document.querySelector(".btn-sugerencia");
     const $textSugerencia = document.querySelector(".text-sugerencia");
 
-   
-console.log("1")
 
 
 
