@@ -12,7 +12,7 @@ export default function opeModal (){
         $contModal.classList.remove("catalogo-active");
     });
 
-    fetch("../../assets/json/catalogo.json")
+    fetch("assets/json/catalogo.json")
         .then(res => res.json())
         .then(data =>{
             
