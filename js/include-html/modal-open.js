@@ -3,13 +3,25 @@ export default function opeModal (){
     const $btnClosedModal = document.querySelector(".btn-modal-close");
     const $contModal = document.querySelector("#modal-catalogo");
     const $contCatalogo = document.querySelector(".catalogo-productos");
-    console.log($contCatalogo)
+    const $btnDescargar = document.querySelector(".btn-catalogo");
+    
 
     $btnOpenModal.addEventListener("click",() =>{
         $contModal.classList.add("catalogo-active");
     });
     $btnClosedModal.addEventListener("click",() =>{
         $contModal.classList.remove("catalogo-active");
+    });
+
+    $btnDescargar.addEventListener("click",() =>{
+        const miPDF = "../../assets/json/catalogo.pdf";
+        const linkHidden = document.createElement("a");
+        
+        linkHidden.href = miPDF;
+        linkHidden.download = "catalogo.pdf";
+        linkHidden.click();
+
+        console.log(linkHidden);
     });
 
     fetch("../../assets/json/catalogo.json")
@@ -32,7 +44,7 @@ export default function opeModal (){
 
                     `
                 $contCatalogo.appendChild($divCard);
-               console.log($divCard);
+            
             });
         })
         .catch(error =>{
